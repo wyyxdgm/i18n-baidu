@@ -1,0 +1,24 @@
+{
+  "name": "i18n-baidu",
+  "version": "1.0.0",
+  "description": "i18n via baidu api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyyxdgm/i18n-baidu.git"
+  },
+  "keywords": [
+    "i18n",
+    "baidu",
+    "api"
+  ],
+  "author": "wyyxdgm@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyyxdgm/i18n-baidu/issues"
+  },
+  "homepage": "https://github.com/wyyxdgm/i18n-baidu#readme"
+}
