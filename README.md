@@ -1,12 +1,19 @@
 # i18n-baidu
 
-*通过百度的api实现i18n多语言翻译*
+通过百度的api实现i18n多语言翻译、npm package
 
 
 ## 使用方法
 
-1. 在[百度翻译官网](http://api.fanyi.baidu.com/api/trans/product/index)申请接入
-2. 打开管理控制台，获取APP ID与密钥，覆盖代码中的yourKey, yourSecret
+1. npm包安装
+
+```
+npm install i18n-baidu
+```
+
+2. 在[百度翻译官网](http://api.fanyi.baidu.com/api/trans/product/index)申请接入，获取：AppId、密钥
+
+3. Snippets，覆盖代码中的 `yourKey`, `yourSecret`
 
 ```
 const I18nBaidu = require('i18n-baidu');
